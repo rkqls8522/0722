@@ -186,9 +186,9 @@ public class selection_datachange_menu {
 	public static void main(String[] args) {
 		
 		
-		
+		String a = "dkdk";
 		ArrayList<String> list = new ArrayList<String>();
-		list.add("가");
+		list.add(a+"  "+a);
 		list.add("나");
 		list.add("다");
 		list.add("라");
